@@ -273,6 +273,4 @@ jupyter notebook eda.ipynb
 
 **⭐ If this project helped you, please give it a star!**
 
-*Built with ❤️ and Python*
-
 </div>
